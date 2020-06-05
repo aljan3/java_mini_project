@@ -21,6 +21,7 @@ import java.awt.event.ActionEvent;
 import java.awt.Component;
  
 
+@SuppressWarnings("serial")
 public class Gestion_clients extends JFrame {
 	
 

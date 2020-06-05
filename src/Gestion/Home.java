@@ -22,6 +22,7 @@ import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 import javax.swing.JPasswordField;
 
+@SuppressWarnings("serial")
 public class Home extends JFrame {
 
 	private JPanel contentPane;

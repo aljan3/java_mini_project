@@ -27,6 +27,7 @@ import java.awt.event.ActionEvent;
 import javax.swing.SwingConstants;
 import javax.swing.JSeparator;
 
+@SuppressWarnings("serial")
 public class Menu_principal extends JFrame {
 	protected static int is_admin ; 
 	private JPanel contentPane;

@@ -31,6 +31,7 @@ import java.sql.ResultSet;
 import java.sql.Statement;
 import java.awt.event.ActionEvent;
 
+@SuppressWarnings("serial")
 public class Gestion_utilisateurs extends JFrame {
 
 	private JPanel contentPane;
